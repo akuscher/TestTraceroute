@@ -1,7 +1,0 @@
-D:\projects\TestTraceroute\TestTraceroute\obj\Debug\TestTraceroute.csprojResolveAssemblyReference.cache
-D:\projects\TestTraceroute\TestTraceroute\bin\Debug\TestTraceroute.exe.config
-D:\projects\TestTraceroute\TestTraceroute\bin\Debug\TestTraceroute.exe
-D:\projects\TestTraceroute\TestTraceroute\bin\Debug\TestTraceroute.pdb
-D:\projects\TestTraceroute\TestTraceroute\bin\Debug\log4net.dll
-D:\projects\TestTraceroute\TestTraceroute\obj\Debug\TestTraceroute.exe
-D:\projects\TestTraceroute\TestTraceroute\obj\Debug\TestTraceroute.pdb
