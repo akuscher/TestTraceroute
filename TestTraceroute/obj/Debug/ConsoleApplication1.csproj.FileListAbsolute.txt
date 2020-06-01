@@ -1,6 +1,0 @@
-D:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
-D:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\TestTraceroute.exe.config
-D:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\TestTraceroute.exe
-D:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\TestTraceroute.pdb
-D:\projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\TestTraceroute.exe
-D:\projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\TestTraceroute.pdb
